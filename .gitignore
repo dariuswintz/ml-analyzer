@@ -1,0 +1,18 @@
+# Go binaries
+*.exe
+*.exe~
+*.out
+
+# Test files
+*.test
+
+# Directories
+bin/
+obj/
+
+# IDE files
+.vscode/
+.idea/
+
+# Dependency directories (can be ignored if using Go modules)
+vendor/
